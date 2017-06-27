@@ -9,13 +9,13 @@ irb 0.9.6(09/06/30)
 *Q1*
 Чем отличается proc от lambda?<br />
 *A1*
-1. В Ruby есть два способа передачи параметров - strict и loose. Proc так же как Block использует loose режим. Lambda использует strict mode. [https://github.com/ftob/fnb_answer/blob/master/src/1/lambda_vs_proc.rb](Example)
+1. В Ruby есть два способа передачи параметров - strict и loose. Proc так же как Block использует loose режим. Lambda использует strict mode. [https://github.com/ftob/fnb_answer/blob/master/src/1/lambda_vs_proc.rb]
 2. В Proc return возвращает из родительского метода. В lambda return возвращает в метод. 
 <br />
 *Q2*
 Чем отличается && от and?<br />
 *A2*
-Приоритетом. У && приоритет выше чем у "and" [https://github.com/ftob/fnb_answer/blob/master/src/2/and_example.rb](Example)
+Приоритетом. У && приоритет выше чем у "and" [https://github.com/ftob/fnb_answer/blob/master/src/2/and_example.rb]
 <br />
 
 *Q3*
